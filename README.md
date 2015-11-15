@@ -1,4 +1,6 @@
-# Casper
+# Casper Fork 
+
+My customization of Casper for [My Blog](http://www.tamvm.com/).
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
 
